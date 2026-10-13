@@ -6,6 +6,7 @@ MD Writer 的 Homebrew tap 仓库。
 
 ```bash
 brew tap silentstorm618/md-writer
+brew trust silentstorm618/md-writer
 brew install --cask md-writer
 ```
 
