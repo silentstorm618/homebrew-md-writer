@@ -1,6 +1,6 @@
 cask "md-writer" do
   version "1.0.0"
-  sha256 "PLACEHOLDER_WILL_BE_REPLACED_BY_CI"
+  sha256 "d32f0570836dac29ddc2b2c1c3bb8c429f1c3d70e178ebe47d35071dbb6b951f"
 
   url "https://github.com/silentstorm618/md-writer/releases/download/v#{version}/MDWriter-#{version}.pkg"
   name "MD Writer"
